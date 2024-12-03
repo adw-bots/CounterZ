@@ -27,5 +27,5 @@ Before running the bot, ensure you have the following installed:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/discord-counter-bot.git
+   git clone https://github.com/adw-bots/CounterZ.git
    cd discord-counter-bot
